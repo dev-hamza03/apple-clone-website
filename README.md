@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 🍏 Apple Clone Website
 
 This is a **clone of the Apple homepage** built using **HTML and CSS**.  
